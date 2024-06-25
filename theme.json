@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "settings": {
+    "layout": {
+      "contentSize": "1280px",
+      "wideSize": "1400px"
+    },
+    "color": {
+      "palette": [
+        {
+          "name": "White",
+          "slug": "white",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "slug": "black",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "TCO Green 100",
+          "slug": "green-100",
+          "color": "#F6F7E3"
+        },
+        {
+          "name": "TCO Green 200",
+          "slug": "green-200",
+          "color": "#E2EDB8"
+        },
+        {
+          "name": "TCO Green 300",
+          "slug": "green-300",
+          "color": "#D4E699"
+        },
+        {
+          "name": "TCO Green 400",
+          "slug": "green-400",
+          "color": "#C5DE79"
+        },
+        {
+          "name": "TCO Green 500",
+          "slug": "green-500",
+          "color": "#B1D34E"
+        },
+        {
+          "name": "TCO Green 600",
+          "slug": "green-600",
+          "color": "#8BB03C"
+        },
+        {
+          "name": "TCO Green 700",
+          "slug": "green-700",
+          "color": "#638B2C"
+        },
+        {
+          "name": "TCO Green 800",
+          "slug": "green-800",
+          "color": "#3B661C"
+        },
+        {
+          "name": "TCO Green 900",
+          "slug": "green-900",
+          "color": "#0B3809"
+        },
+        {
+          "name": "TCO Blue 100",
+          "slug": "blue-100",
+          "color": "#E3F3F6"
+        },
+        {
+          "name": "TCO Blue 200",
+          "slug": "blue-200",
+          "color": "#A8E0E9"
+        },
+        {
+          "name": "TCO Blue 300",
+          "slug": "blue-300",
+          "color": "#77D0DE"
+        },
+        {
+          "name": "TCO Blue 400",
+          "slug": "blue-400",
+          "color": "#47C1D4"
+        },
+        {
+          "name": "TCO Blue 500",
+          "slug": "blue-500",
+          "color": "#1CB1C9"
+        },
+        {
+          "name": "TCO Blue 600",
+          "slug": "blue-600",
+          "color": "#1196A8"
+        },
+        {
+          "name": "TCO Blue 700",
+          "slug": "blue-700",
+          "color": "#077B87"
+        },
+        {
+          "name": "TCO Blue 800",
+          "slug": "blue-800",
+          "color": "#015C64"
+        },
+        {
+          "name": "TCO Blue 900",
+          "slug": "blue-900",
+          "color": "#013236"
+        },
+        {
+          "name": "TCO Gray 100",
+          "slug": "gray-100",
+          "color": "#EEF1EB"
+        },
+        {
+          "name": "TCO Gray 200",
+          "slug": "gray-200",
+          "color": "#D7DAD4"
+        },
+        {
+          "name": "TCO Gray 300",
+          "slug": "gray-300",
+          "color": "#BCBFB9"
+        },
+        {
+          "name": "TCO Gray 400",
+          "slug": "gray-400",
+          "color": "#A8ABA6"
+        },
+        {
+          "name": "TCO Gray 500",
+          "slug": "gray-500",
+          "color": "#939591"
+        },
+        {
+          "name": "TCO Gray 600",
+          "slug": "gray-600",
+          "color": "#7D7F7B"
+        },
+        {
+          "name": "TCO Gray 700",
+          "slug": "gray-700",
+          "color": "#686A66"
+        },
+        {
+          "name": "TCO Gray 800",
+          "slug": "gray-800",
+          "color": "#525450"
+        },
+        {
+          "name": "TCO Gray 900",
+          "slug": "gray-900",
+          "color": "#383A36"
+        }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        {
+          "name": "Extra Extra small",
+          "slug": "xxs",
+          "size": "0.875rem"
+        },
+        {
+          "name": "Extra small",
+          "slug": "xs",
+          "size": "1rem"
+        },
+        {
+          "name": "Small",
+          "slug": "sm",
+          "size": "1.2rem"
+        },
+        {
+          "slug": "md",
+          "name": "Medium",
+          "size": "1.4rem"
+        },
+        {
+          "slug": "lg",
+          "name": "Large",
+          "size": "1.6rem"
+        },
+        {
+          "slug": "xl",
+          "name": "Extra Large",
+          "size": "1.8rem"
+        },
+        {
+          "slug": "2xl",
+          "name": "2XL",
+          "size": "2.1rem"
+        },
+        {
+          "slug": "3xl",
+          "name": "3XL",
+          "size": "2.6rem"
+        },
+        {
+          "slug": "4xl",
+          "name": "4XL",
+          "size": "3.2rem"
+        },
+        {
+          "slug": "5xl",
+          "name": "5XL",
+          "size": "4rem"
+        },
+        {
+          "slug": "6xl",
+          "name": "6XL",
+          "size": "4.6rem"
+        },
+        {
+          "slug": "7xl",
+          "name": "7XL",
+          "size": "5.6rem"
+        }
+      ]
+    }
+  }
+}
