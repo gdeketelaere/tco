@@ -109,3 +109,18 @@ function tailpress_nav_menu_add_submenu_class( $classes, $args, $depth ) {
 }
 
 add_filter( 'nav_menu_submenu_css_class', 'tailpress_nav_menu_add_submenu_class', 10, 3 );
+
+function register_widget_areas() {
+	register_sidebar( array(
+		'name'          => 'Footer area one',
+		'id'            => 'footer_area_one',
+		'description'   => 'This widget area discription',
+		'before_widget' => '<section class="footer-area footer-area-one">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h4>',
+		'after_title'   => '</h4>',
+	  ));
+  
+  }
+  
+  add_action( 'widgets_init', 'register_widget_areas' );

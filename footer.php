@@ -7,12 +7,9 @@
 
 <?php do_action( 'tailpress_content_after' ); ?>
 
-<footer id="colophon" class="site-footer bg-gray-50 py-12" role="contentinfo">
-	<?php do_action( 'tailpress_footer' ); ?>
-
-	<div class="container mx-auto text-center text-gray-500">
-		&copy; <?php echo date_i18n( 'Y' );?> - <?php echo get_bloginfo( 'name' );?>
-	</div>
+<footer id="colophon" class="site-footer bg-blue-500 text-white pt-12 -mt-14" role="contentinfo">
+	<?php dynamic_sidebar( 'footer_area_one' ); ?>
+	
 </footer>
 
 </div>
